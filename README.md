@@ -1,3 +1,7 @@
+STEPS: 1) yarn || npm i
+       2) json-server db.json --watch    (localhost:3000  - ზე მაქ ბაზასთან ქოლები)
+       3) yarn start || npm run start
+
 გააკეთეთ მანქანების გაყიდვის საიტის აპლიკაცია (single page application)
 
 აუცილებელია იყოს შემდეგი გვერდები:
