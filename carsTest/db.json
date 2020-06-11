@@ -1,0 +1,53 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "imageUrl": "https://cdn131.picsart.com/294643037102201.jpg?type=webp&to=crop&r=256",
+      "title": "Chevrolete",
+      "text": "Nulla hendrerit commodo tortor, vitae elementum magna convallis nec. Nam tempor nibh a purus aliquam et adipiscing elit gravida.Ut vitae nunc a libero volutpat gravida. Nullam egestas mi sit amet dui scelerisque eu laoreet nisi ultrices. Ut vitae nunc a libero volutpat gravida. Nam tempor nibh a purus aliquam.",
+      "price": "22500$"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://pbs.twimg.com/profile_images/744978086094057477/0nPVpSog_400x400.jpg",
+      "title": "BMW",
+      "text": "Nulla hendrerit commodo tortor, vitae elementum magna convallis nec. Nam tempor nibh a purus aliquam et adipiscing elit gravida.Ut vitae nunc a libero volutpat gravida. Nullam egestas mi sit amet dui scelerisque eu laoreet nisi ultrices. Ut vitae nunc a libero volutpat gravida. Nam tempor nibh a purus aliquam.",
+      "price": "26500$"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://img.tapimg.com/market/lcs/51455298f6faa9c1e39e6f7c4e4a8325_360.png?imageView2/1/w/256/q/40/interlace/1/ignore-error/1",
+      "title": "MacLaren",
+      "text": " Nulla hendrerit commodo tortor, vitae elementum magna convallis nec. Nam tempor nibh a purus aliquam et adipiscing elit gravida. Ut vitae nunc a libero volutpat gravida. Nullam egestas mi sit amet dui scelerisque eu laoreet nisi ultrices. Ut vitae nunc a libero volutpat gravida. Nam tempor nibh a purus aliquam",
+      "price": "32500$"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxaik2lFGLDvzkQNQpqnSpMrdOW_KqhIncj1Nry0xVJr82S43M&usqp=CAU",
+      "title": "Porsche",
+      "text": "Nulla hendrerit commodo tortor, vitae elementum magna convallis nec. Nam tempor nibh a purus aliquam et adipiscing elit gravida.Ut vitae nunc a libero volutpat gravida. Nullam egestas mi sit amet dui scelerisque eu laoreet nisi ultrices. Ut vitae nunc a libero volutpat gravida. Nam tempor nibh a purus aliquam.",
+      "price": "31500$"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_b2nfv-8nJIvLQ-J0C8GfONk0mCgFvVaV6TUCW2NAQSXJSSVL&usqp=CAU",
+      "title": "Chevrolet",
+      "text": "Nulla hendrerit commodo tortor, vitae elementum magna convallis nec. Nam tempor nibh a purus aliquam et adipiscing elit gravida.Ut vitae nunc a libero volutpat gravida. Nullam egestas mi sit amet dui scelerisque eu laoreet nisi ultrices. Ut vitae nunc a libero volutpat gravida. Nam tempor nibh a purus aliquam.",
+      "price": "10500$"
+    },
+    {
+      "title": "New Car",
+      "price": "1000$",
+      "text": "Nulla hendrerit commodo tortor, vitae elementum magna convallis nec. Nam tempor nibh a purus aliquam et adipiscing elit gravida.Ut vitae nunc a libero volutpat gravida. Nullam egestas mi sit amet dui scelerisque eu laoreet nisi ultrices. Ut vitae nunc a libero volutpat gravida. Nam tempor nibh a purus aliquam",
+      "imageUrl": "https://cutewallpaper.org/21/cool-cars-wallpaper/Car-Wallpapers-and-Backgrounds-HD-Customize-Home-Screen-with-.jpg",
+      "id": 4.784899336181003
+    },
+    {
+      "title": "Tesla",
+      "price": "75000$",
+      "text": "Tesla is  simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "imageUrl": "https://i1.wp.com/eastwest.thegadgetman.org.uk/wp-content/uploads/2017/07/tesla256.png?fit=256%2C256&ssl=1",
+      "id": 75.86352330611518
+    }
+  ]
+}
