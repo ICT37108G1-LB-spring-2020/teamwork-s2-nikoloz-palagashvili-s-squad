@@ -1,12 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./assets/css/style.css";
-import "./assets/css/demo.css";
-
-import "./assets/css/gridNavigation.css";
-import "./assets/css/nivo-slider.css";
-import "./assets/css/supersized.css";
-import "./assets/css/simple_menu.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
